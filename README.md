@@ -26,7 +26,7 @@ An interactive learning game that combines multiple-choice quizzes, a mini road-
 
 ---
 
-## 🗂Data Sources
+## Data Sources
 
 ### Google Sheets
 
